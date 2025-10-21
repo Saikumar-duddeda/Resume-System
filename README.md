@@ -1,5 +1,7 @@
 **AI-Powered Resume Builder & Manager**
+
 **Project Overview**
+
 The project is a full-stack web app to enable students and professionals to build, manage, and optimize resumes in an efficient manner. It involves a responsive, modern frontend, a powerful backend API, AI-driven automation, and integration with hackathons, internships, and online learning sites. Users can develop dynamic resumes, import PDF/DOCX files, create downloadable PDFs, and get AI-driven feedback to enhance their resumes.
 The system is designed to provide a next-generation resume environment where professional experience and expertise are updated in real-time automatically, allowing users to easily maintain top-notch resumes.
 
